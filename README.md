@@ -5,7 +5,7 @@
 # K3D-Estudos
 Estudo da ferramenta k3d via k8s
 
-# K3S
+# K3D
 
 [linke](https://k3d.io/v5.2.2/#installation)
 
