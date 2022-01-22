@@ -1,0 +1,1 @@
+apiVersion: --> grupo de apis, comando kubectl api resources ele lista todos os objetos e recursos
