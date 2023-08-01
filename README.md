@@ -7,7 +7,7 @@ Estudo da ferramenta k3d via k8s
 
 # K3D
 
-[linke](https://k3d.io/v5.2.2/#installation)
+[link](https://k3d.io/v5.2.2/#installation)
 
 > **_Install_**
 
@@ -55,7 +55,7 @@ k3d-meucluster-server-0   Ready    control-plane,master   45s   v1.21.7+k3s1
 k3d cluster list
 ```
 
-# Excluuir os cluster
+# Excluir os cluster
 
 * Excluir o cluster default
 
